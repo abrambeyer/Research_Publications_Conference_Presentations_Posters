@@ -21,3 +21,6 @@
 ##### Results provide preliminary evidence that an interdisciplinary approach using IDR can assist with reducing unskilled consults. Establishing a focus group can assist the initiatives through education on what defines an unskilled consult, collaboration, and improved communication regarding patient mobility and ADL performance while hospitalized.
 
 
+## Figures
+
+<img src="https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/blob/main/improvement_of_physical_and_occupational_therapy_referral_process/Percentage%20of%20Unskilled%20PT_OT%20Consults%20from%20May%2017%20July%2018.jpeg" width=500>
