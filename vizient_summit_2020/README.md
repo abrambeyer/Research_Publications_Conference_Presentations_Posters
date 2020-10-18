@@ -10,6 +10,7 @@
 - Built custom database schema to store the data and query from it
 - Built a series of SQL queries to automatically perform roll-up calculations
 - Built a Tableau dashboard and SSRS scorecards to report out numbers to hospital leadership in an aligned fashion 
+- Created a timely, system-wide inpatient quality composite in order to promote fair system-wide benchmarking against similar hospital cohorts
 
 ## Tools Used In This Project
 - **Python:** 3.5
