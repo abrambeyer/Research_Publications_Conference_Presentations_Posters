@@ -1,5 +1,5 @@
 # Using Data Science To Manage An Acute Care Rehabilitation Department
-##### [*Poster Accepted to ACRM (American Congress of Rehabilitation Medicine) 2019 Annual Conference](https://acrm.org/meetings/2019-annual-conference/)
+##### [*Poster Accepted to ACRM (American Congress of Rehabilitation Medicine) 2019 Annual Conference*](https://acrm.org/meetings/2019-annual-conference/)
 
 ## Project Overview:
 - Established long-term partnership with the Physical & Occupational Therapy Departments to identify strategies to collaborate and improve outcomes.
