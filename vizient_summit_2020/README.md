@@ -6,23 +6,22 @@
 ***Presentation Title: Operationalizing the Vizient Quality and Accountability Study to Unify a Health System’s Performance***
 
 ## Project Overview
-- Built automated python pipeline with selenium to pull hundreds of Vizient CDB reports, wrangle and organize excel files, extract data from the excel files and store into SQL Server database
+- Built an automated python pipeline with selenium to configure and run hundreds of Vizient CDB reports, wrangle and organize excel files, extract data from the excel files and store into SQL Server database
 - Built custom database schema to store the data and query from it
 - Built a series of SQL queries to automatically perform roll-up calculations
 - Built a Tableau dashboard and SSRS scorecards to report out numbers to hospital leadership in an aligned fashion 
 
 ## Tools Used In This Project
 - **Python:** 3.5
-- **Python Packages:** pandas,numpy, selenium,pyodbc,openpyxl,
+- **Python Packages:** selenium,pandas,numpy,openpyxl,pyodbc,os,itertools,glob,time,shutil,re,urllib
 - **Microsoft SQL Server:** 2016
 - **Excel**
 - **Tableau 2020.1.4**
 - **SQL Server Reporting Services**
 
-## Learning Objectives
+## Summit Power Huddle Learning Objectives
 - Create a data pipeline to guide timely and continuous quality and performance improvement
 - Develop a guiding quality performance metric
-
 
 ## Process Overview
 
