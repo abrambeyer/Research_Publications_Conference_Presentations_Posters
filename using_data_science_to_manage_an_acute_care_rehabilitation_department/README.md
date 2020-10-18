@@ -2,7 +2,8 @@
 ##### [*Poster Accepted to ACRM (American Congress of Rehabilitation Medicine) 2019 Annual Conference](https://acrm.org/meetings/2019-annual-conference/)
 
 ## Project Overview:
-- Partnered with the Physical & Occupational Therapy Departments to identify strategies to collaborate and improve outcomes.
+- Established long-term partnership with the Physical & Occupational Therapy Departments to identify strategies to collaborate and improve outcomes.
+- Key pain points were demonstrating and advocating the value of the department, better understanding of productivity, and reduced unskilled consults (someone sent to PT/OT when unable or unready for treatment causing wasted time and money)
 - Using exploratory analysis, benchmarking, trends and forecasting, identified areas for improvment and advocated for appropriate staffing, appropriate therapy doses and appropriate fiscal stewardship.
 - Metrics developed and tracked:  Response to Referall, Adherence to Treatment Frequency, Readmission Rates, Productivity by RVU.
  
