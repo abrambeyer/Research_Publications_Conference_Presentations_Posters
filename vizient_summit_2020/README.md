@@ -1,6 +1,7 @@
 # Vizient Connections Summit 2020
 
 [*Accepted as Power Huddle Speaker*](http://www.vizientconnectionssummit.com/agenda.html)  
+[*Accepted as Vizient Training Seminar*](https://continuingeducation.vizientinc.com/content/future-focus-2020-ph234-operationalizing-vizient-quality-and-accountability-study-unify#group-tabs-node-course-default3)
 
 ***Power Huddle Title: Better Together: Using Quality & Accountability Study to Drive Systemness***
 ***Presentation Title: Operationalizing the Vizient Quality and Accountability Study to Unify a Health System’s Performance***
