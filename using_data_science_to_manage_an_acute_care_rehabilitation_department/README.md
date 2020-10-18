@@ -12,5 +12,6 @@
 - **Excel**
 - **R** 3.5
 
+<img="https://github.com/abrambeyer/Research_Publications_Conference_Presentations_Posters/blob/main/using_data_science_to_manage_an_acute_care_rehabilitation_department/using%20data%20science%20to%20manage%20an%20acute%20care%20rehabilitation%20department%20acrm%20poster.png" width=500>
 
 
